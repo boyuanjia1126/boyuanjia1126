@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boyuan
 - 👀 I’m interested in computational social science
-- 🌱 I’m currently learning how to write a good story using cute codes
+- 🌱 I’m currently learning how to write a good story using cute codes with Eason
 
 
 <!---
